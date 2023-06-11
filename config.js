@@ -12,34 +12,32 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰  
 
 global.owner = [ 
-  ['5492266466080', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['573183650526', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-  ['593968585383'],
-  ['972529277518'], 
-  ['5217441745001'], 
-  ['50495745934'],
-  ['59894808483'],
-  ['595992302861'],
-  ['51957041866'],
-  ['5492266613038'],
-  ['5214531106422'],
-  ['5519999394991'],
-  ['5214531173598']
+  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
+  ['51992621601'],
+  ['51992621601'], 
+  ['51992621601'], 
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601']
 ]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['50495745934'] 
-global.prems = ['972529277314'],  
-   
+global.mods = ['551992621601']
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga The-LoliBot-MD
+//Agrega el Idioma que quieres que tenga Aleizn-MD
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de Aleizn-MD Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -105,25 +103,25 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.author = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.9'
-global.lb = '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
-global.ig = 'https://www.tiktok.com/@thelolibot_md'
+global.lb = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
+global.yt = 'https://www.youtube.com/Alsf'
+global.ig = 'https://www.instagram.com/ale.izn_20/'
 global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.fb = 'https://www.facebook.com/groups/872989/'
 
-global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/BkFKID3vATKKZuaPkOXJM5' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/GUlSx2eoanhBPssKzuA48c' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo del Colaboracion
-global.nnntt = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo COL 2 
-global.nnnttt = 'https://chat.whatsapp.com/DQzurVwUv6R1QC1rCK4QPb' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.asistencia = 'Wa.me/5492266466080' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo del Colaboracion
+global.nnntt = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo COL 2 
+global.nnnttt = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //enlace lolibot
+global.nnntttt = 'https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo' //Grupo ayuda sobre el bot
+global.asistencia = 'Wa.me/51992621601' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -151,8 +149,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.wm = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
+global.igfg = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
