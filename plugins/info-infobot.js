@@ -48,8 +48,8 @@ let old = performance.now()
   let speed = neww - old
 
 let info = `╭─────[ *INFO DEL BOT* ]────✧
-├ 🤴🏻 *CREADOR:* elrebelde
-├ #️⃣ *CONTACTO:* *wa.me/5492266466080*
+├ 🤴🏻 *CREADOR:* Aleizn
+├ #️⃣ *CONTACTO:* *wa.me/51992621601*
 ├ ✅ *VERSION ACTUAL:* ${vs}
 ├ 🎳 *PREFIJO:* *${usedPrefix}*
 ├ 🔐 *CHATS PRIVADO:* *${chats.length - groups.length}*

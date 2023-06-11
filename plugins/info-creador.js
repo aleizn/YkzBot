@@ -23,10 +23,7 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => imagen1[1]) 
 let teksbio = `
 *𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙤* 
-*Wa.me/5492266466080 (no bot)*
-*Wa.me/573183650526 (bot)*
-*wa.me/573106055136 +bot ²)*
-*wa.me/51955192184 (bot ³)*
+*Wa.me/51992621601 (no bot)*
 `
   let teks = ' '
 const sections = [
@@ -75,7 +72,7 @@ sections }
       const count = args[1] && args[1].length > 0 ? Math.min(99999999, Math.max(parseInt(args[1]), 1)) : !args[1] || args.length < 3 ? 1 : Math.min(1, count)
         switch (type) {
           case 'nomor':
-          conn.reply(m.chat, "LoliBot-MD", m, { contextInfo: { mentionedJid: [nowner] }})
+          conn.reply(m.chat, "Aleizn", m, { contextInfo: { mentionedJid: [nowner] }})
            break
             case 'bio':
           await conn.sendFile(m.chat, gataImg.getRandom(), 'gata.jpg', teksbio, fkontak)

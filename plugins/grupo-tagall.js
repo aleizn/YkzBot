@@ -3,15 +3,14 @@ if (!(isAdmin || isOwner)) {
 global.dfail('admin', m, conn)
 throw false
 }
-let vn = './media/Invocar.mp3'
 let pesan = args.join` `
-let oi = `*𝙈𝙚𝙣𝙨𝙖𝙟𝙚:* ${pesan}`
-let teks = `╭┄〔 *${wm}* 〕┄⊱\n┆⺀𝘼𝙘𝙩𝙞𝙫𝙚 𝙜𝙧𝙪𝙥𝙤𝙨 🗣️⺀*\n┆\n┆❏ ${oi}\n┆\n┆❏ *𝙀𝙩𝙞𝙦𝙪𝙚𝙩𝙖𝙨:*\n`
+let oi = `《 𝐌𝐞𝐧𝐬𝐚𝐣𝐞 》: ${pesan}`
+let teks = `Bot creado por Wa.me/51992621601 prohibo la venta del bot
+《😼𝐈𝐍𝐕𝐎𝐂𝐀𝐂𝐈𝐎𝐍 𝐆𝐄𝐍𝐄𝐑𝐀𝐋 》\n\n❏ ${oi}\n\n❏ 《 𝐄𝐭𝐢𝐪𝐮𝐞𝐭𝐚𝐬 》:\n`
 for (let mem of participants) {
-teks += `┆🔸 @${mem.id.split('@')[0]}\n`}
-teks += `*└* 𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫\n\n*▌│█║▌║▌║║▌║▌║▌║█*`
+teks += `✼❤️‍🔥 @${mem.id.split('@')[0]}\n`}
+teks += `➥𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
-conn.sendFile(m.chat, vn, 'Invocar.mp3', null, m, true, { type: 'audioMessage', ptt: true, sendEphemeral: true })
 }
 handler.help = ['tagall <mesaje>','invocar <mesaje>']
 handler.tags = ['group']
@@ -19,3 +18,4 @@ handler.command = /^(tagall|invocar|invocacion|todos|invocación)$/i
 handler.admin = true
 handler.group = true
 export default handler
+    

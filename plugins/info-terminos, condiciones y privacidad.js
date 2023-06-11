@@ -105,17 +105,8 @@ _- NO use el comando de SPAM repetidamente, ya que Provocará un Mal funcionamie
 
 _- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodidad, intranquilidad, molestia u otro termino tajante, se tomarán las respectivas sanciones o llamados de alerta para prevalecer la integridad de los/las Usuarios(as) y funcionamiento de The LoliBot-MD._
 
-
-*ESTE ES EL REPOSITORIO OFICIAL*
- *${md}*
-
-*GRUPOS UPDATE ACTUALIZACIONES Y NOVEDADES SOBRE EL BOT*
-*imfomarte sobre la nueva actualizaciónes y novedades de bot aqui*
-${nna}
-
-*FACEBOOK*
-~ _puede unirte al grupo asistencia facebook del bot_
-*https://facebook.com/groups/872989990425789/*
+CREADOR 
+Wa.me/51992621601
 
 
 *~ Muchas Gracias Por tomarte el tiempo en informate sobre The LoliBot-MD*
